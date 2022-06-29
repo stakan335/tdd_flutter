@@ -1,0 +1,7 @@
+{
+    "defaultFailureMsg" : "Something went wrong",
+    "serverFailureMsg": "Server failure",
+    "cacheFailureMsg": "Cache failure",
+    "invalidInputFailureMsg": "Invalid input - the number must be a positive integer or zero",
+    "numberTrivai": "Number trivia"
+}
